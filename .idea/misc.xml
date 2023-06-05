@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/drawable/hpbar.xml" value="0.2972222222222222" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.30925925925925923" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/drawable/ic_darkcolor.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/drawable/ic_info.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2953703703703704" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/drawable/ic_layers_24dp.xml" value="0.3138888888888889" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/drawable/ic_location.xml" value="0.2851851851851852" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/drawable/ic_sprite_0001.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/drawable/ic_sprite_0002.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/drawable/info.xml" value="0.30277777777777776" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/drawable/mapbox_user_icon_shadow.xml" value="0.3482051282051282" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/drawable/mapbox_user_puck_icon.xml" value="0.3482051282051282" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/drawable/mapbox_user_top_icon.xml" value="0.3482051282051282" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/layout/activity_battle.xml" value="0.5" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/layout/activity_inv.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/layout/activity_inventory.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/layout/activity_view_annotation_showcase.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GPSgame/app/src/main/res/layout/battle_confirm.xml" value="0.1641337386018237" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

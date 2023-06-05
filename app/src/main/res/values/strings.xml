@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoVentures</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoic2V1eiIsImEiOiJjbGYwc2JvaXowMWl5M3dzOWxvem8zZHJjIn0.7ASeu1Xb9u3Z9swTaI3V_g</string>
+</resources>
